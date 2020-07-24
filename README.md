@@ -4,11 +4,13 @@
 [![Linkedin: adi7ya](https://img.shields.io/badge/-ad17ya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ad17ya/)](https://www.linkedin.com/in/ad17ya/)
 ![GitHub followers](https://img.shields.io/github/followers/az0mb13?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=reisub0" alt="az0mb13"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 - 🔭 I’m currently working on: <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />
   * A Slackbot that monitors the organization and all its channels for any password/API keys/secrets leaks and alerts the admin. 
   * A Subdomain monitoring script in python and mongo that actively and passively monitors a domain for new added/remoevd subdomains and can be controlled using a Slack bot.
-
+  
+  
 - 🌱 I'm an Offensive Security Certified Professional or as they call it, OSCP. I’m currently learning AWS cloud security and preparing for AWS Security speciality certificate. Will go for OSWE or OSCE by next year.
 
 - 📫 How to reach me: Try twitter - @zombie007o
