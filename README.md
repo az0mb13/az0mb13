@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zombie007o?label=Follow)
 [![Linkedin: adi7ya](https://img.shields.io/badge/-ad17ya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ad17ya/)](https://www.linkedin.com/in/ad17ya/)
