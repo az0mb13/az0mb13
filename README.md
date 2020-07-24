@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/az0mb13?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=reisub0" alt="az0mb13"/>
 
-- 🔭 I’m currently working on:
+- 🔭 I’m currently working on: <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />
   * A Slackbot that monitors the organization and all its channels for any password/API keys/secrets leaks and alerts the admin. 
   * A Subdomain monitoring script in python and mongo that actively and passively monitors a domain for new added/remoevd subdomains and can be controlled using a Slack bot.
 
