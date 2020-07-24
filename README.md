@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/az0mb13?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+
 - 🔭 I’m currently working on:
   * A Slackbot that monitors the organization and all its channels for any password/API keys/secrets leaks and alerts the admin. 
   * A Subdomain monitoring script in python and mongo that actively and passively monitors a domain for new added/remoevd subdomains and can be controlled using a Slack bot.
