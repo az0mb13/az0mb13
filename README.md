@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/zombie007o?label=Follow)
 [![Linkedin: adi7ya](https://img.shields.io/badge/-ad17ya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ad17ya/)](https://www.linkedin.com/in/ad17ya/)
 ![GitHub followers](https://img.shields.io/github/followers/az0mb13?label=Follow&style=social)
-<img src="https://komarev.com/ghpvc/?username=reisub0" alt="az0mb13"/>
+<img src="https://komarev.com/ghpvc/?username=az0mb13" alt="az0mb13"/>
 
 <img align="right" alt="Hekkin" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
