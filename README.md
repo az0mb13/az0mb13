@@ -8,9 +8,9 @@
 <img align="right" alt="Hekkin" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 - 🔭 I’m currently working on: <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />
-  * Androzer (<a src="https://github.com/az0mb13/Androzer">az0mb13/Androzer</a>) - A tool to automate my Android pentesting needs using Drozer, then prepare an easy-to-understand final report to help further analyze the findings.
+  * Androzer (<a href="https://github.com/az0mb13/Androzer">az0mb13/Androzer</a>) - A tool to automate my Android pentesting needs using Drozer, then prepare an easy-to-understand final report to help further analyze the findings.
   * A Slackbot that monitors the organization and all its channels for any password/API keys/secrets leaks and alerts the admin. 
-  * A Subdomain monitoring script in python and mongo that actively and passively monitors a domain for new added/remoevd subdomains and can be controlled using a Slack bot. (az0mb13/Monitor-X)
+  * A Subdomain monitoring script in python and mongo that actively and passively monitors a domain for new added/remoevd subdomains and can be controlled using a Slack bot. (<a href="https://github.com/az0mb13/Monitor-X">az0mb13/Androzer</a>az0mb13/Monitor-X)
   
   
 - 🌱 I'm an Offensive Security Certified Professional or as they call it, OSCP. I’m currently learning AWS cloud security and preparing for AWS Security speciality certificate. Will go for OSWE or OSCE by next year.
