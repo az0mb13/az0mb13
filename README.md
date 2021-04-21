@@ -18,4 +18,4 @@
 - Developing some side projects and automating stuff. Some of them are public.
 - When I'm not working, I'm usually blogging at https://blog.dixitaditya.com/
 
-⭐️ From [AjayKhalsa](https://github.com/az0mb13)
+⭐️ From [az0mb13](https://github.com/az0mb13)
