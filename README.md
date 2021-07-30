@@ -16,5 +16,3 @@
 - Developing some side projects and automating stuff. Some of them are public.
 - When I'm not working, I'm usually blogging at https://blog.dixitaditya.com/
 - Recently got certified as an AWS Cloud Practitioner. Going for Security Specialist next.
-
-⭐️ From [az0mb13](https://github.com/az0mb13)
