@@ -11,8 +11,8 @@
 
 ### This is me and my codes.
 - I'm a Security Researcher and Penetration tester. 
-- Working at Deriv as a Security Engineer and as a Pentest team lead at Cobalt. 
-- Working as a Penetration Tester with HackerOne. 
+- Leading the pentest teams at Cobalt Labs and HackereOne.
+- Worked at Deriv and Binary.com as a Security Engineer. 
 - Developing some side projects and automating stuff. Some of them are public.
 - When I'm not working, I'm usually blogging at https://blog.dixitaditya.com/
-- Recently got certified as an AWS Cloud Practitioner. Going for Security Specialist next.
+- I'm an OSCP. Recently got certified as an AWS Cloud Practitioner. Going for Security Specialist next.
