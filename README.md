@@ -1,4 +1,4 @@
-## Hey There! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hey There!
 
 <a href="https://twitter.com/zombie007o">
   <img align="left" alt="Aditya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -9,7 +9,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### This is me and my codes.
+### A little about me
 - I'm a Security Researcher and Penetration tester. 
 - Leading the pentest teams at Cobalt Labs and HackereOne.
 - Worked at Deriv and Binary.com as a Security Engineer. 
