@@ -15,4 +15,4 @@
 - Worked at Deriv and Binary.com as a Security Engineer. 
 - Developing some side projects and automating stuff. Some of them are public.
 - When I'm not working, I'm usually blogging at https://blog.dixitaditya.com/
-- I'm an OSCP. Recently got certified as an AWS Cloud Practitioner. Going for Security Specialist next.
+- I'm an OSCP. Recently got certified as an AWS Cloud Practitioner. Going for AWS Security Specialty next.
