@@ -1,18 +1,9 @@
-## Hey There!
+## Hey!
 
-<a href="https://twitter.com/zombie007o">
-  <img align="left" alt="Aditya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ad17ya/">
-  <img align="left" alt="Aditya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+I'm a Security Researcher and a Penetration Tester. I like automating things. 
 
-### A little about me
-- I'm a Security Researcher and Penetration tester. 
-- Leading the pentest teams at Cobalt Labs and HackereOne.
-- Worked at Deriv and Binary.com as a Security Engineer. 
-- Developing some side projects and automating stuff. Some of them are public.
-- When I'm not working, I'm usually blogging at https://blog.dixitaditya.com/
-- I'm an OSCP. Recently got certified as an AWS Cloud Practitioner. Going for AWS Security Specialty next.
+#### Certifications
+
+<a href="https://www.credly.com/badges/8f9c5ea6-896b-4066-99a1-506456299c11/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" class="cert" alt='OSCP' width="100px"></a>
+<a href="https://www.credly.com/badges/cdc197f0-08a0-4b8c-a2ea-c0407fe22c77/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" class="cert" alt='AWS Cloud Practitioner' width="100px"></a>
+<a href="https://www.credly.com/badges/3a7ba1f7-9277-451e-8dad-20938cfeb5d6/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" class="cert" alt='AWS Security Specialty' width="100px"></a>
